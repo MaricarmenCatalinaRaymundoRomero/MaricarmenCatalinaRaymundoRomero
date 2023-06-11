@@ -1,10 +1,8 @@
+--------------------------------------------------![ads](https://github.com/MaricarmenCatalinaRaymundoRomero/MaricarmenCatalinaRaymundoRomero/assets/129924045/54b988b8-9987-4601-ac97-e0320c92393e)------------------------------------------------------
 
 
-<a>![g2HO](https://github.com/MaricarmenCatalinaRaymundoRomero/MaricarmenCatalinaRaymundoRomero/assets/129924045/7ce5d372-2240-4dbe-b0a6-23923a7eee54) <a>
- 
-<a><img src="https://user-images.githubusercontent.com/125378976/219987431-d076562f-40cb-4835-b8e0-c5393c384cbe.gif"></img></a>
-</div>
- 
+
+
   </div>
   <br>
 <!--Redes sociales y otros-->
