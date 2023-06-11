@@ -8,7 +8,7 @@
 <!--Redes sociales y otros-->
 <div align="center">
  
-<h1><strong>📫 Soy estudiante de Senati de la carrera Desarrollo de Software. Estoy en el 4 ciclo.</strong></h1>
+<h1><strong>📫 Estoy en 4 Ciclo de la carrera Desarrollo de Software </strong></h1>
 <a href="#">
   <img style="margin-right:5px" alt=" Instagram" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
