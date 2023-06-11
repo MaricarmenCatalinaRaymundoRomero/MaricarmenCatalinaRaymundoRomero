@@ -4,11 +4,12 @@
   <br>
 <!--Redes sociales y otros-->
 <div align="center">
-<h1><strong>📫 Connect with me:</strong></h1>
+ 
+<h1><strong>📫 Soy estudiante de Senati de la carrera Desarrollo de Software. Estoy en el 4 ciclo.</strong></h1>
 <a href="#">
   <img style="margin-right:5px" alt="Jefer's Instagram" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-
+ 
 <a href="#">
   <img alt="Jefer | Discord" width="27px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" />
 </a>
